@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [java,HTML]
+- [javaScript,HTML]
 - [Css]
 
 
