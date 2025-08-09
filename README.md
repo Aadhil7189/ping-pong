@@ -25,8 +25,8 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [java,HTML]
+- [Css]
 - [Libraries used]
 - [Tools used]
 
@@ -47,50 +47,34 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1UikCrlK5VeTpxUpMZMmNC5mRQFBDi4Ir/view?usp=sharing](ping pong interface)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1UVzaZfrgpOFn95YSk8LRmGHWMhcx16AS/view?usp=sharing](screenshot of playing pingpong)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![https://drive.google.com/file/d/1UikCrlK5VeTpxUpMZMmNC5mRQFBDi4Ir/view?usp=sharing](pingpong)
+*it showing image is ping and pong*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Ping pong build img](<img width="487" height="327" alt="image" src="https://github.com/user-attachments/assets/a40af4a4-4238-4210-baf3-0755b29f7914" />
+)
+* The image used for the pingpong and the scoreboard also
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1QH6YDfDdtq2n-Bhnq5em7yrjEJT5Uz_j/view?usp=drive_link]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aadhil N]: [executes the java ]
+- [Athul krishna A S]: [Executes the HTML]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
