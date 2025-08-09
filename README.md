@@ -27,24 +27,7 @@
 For Software:
 - [java,HTML]
 - [Css]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![https://drive.google.com/file/d/1UikCrlK5VeTpxUpMZMmNC5mRQFBDi4Ir/view?usp=sharing](ping pong interface)
