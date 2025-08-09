@@ -55,7 +55,7 @@ For Software:
 
 
 ## Team Contributions
-- [Aadhil N]: [executes the java ]
+- [Aadhil N]: [executes the javaScript ]
 - [Athul krishna A S]: [Executes the HTML]
 
 
